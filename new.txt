@@ -1,0 +1,5 @@
+Name: Andrey
+Lastname: Yushin
+Age: 28
+Number of pets: 0
+Salary: $7000
